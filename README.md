@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# The CodeVerse
+•	Architected a dynamic ed-tech platform with full responsiveness, allowing users to create, consume, and rate educational content, implemented robust authentication and authorization, resulting in 30% increase in user engagement.
+•	Enhanced user engagement by allowing learners to rate and review courses, enabled instructor to detailed analytics and earnings, boosting course completion rates and instructor satisfaction.
+•	Learners can rate courses and provide feedback while Instructors can see their course analytics and earnings which facilitates a transparent and informed learning community.
+•	Rolled out Razorpay Payment Integration on the platform, ensuring a seamless user experience and increasing successful transaction rates by 20%.
+•	Tech Stack: ReactJS, Tailwind CSS, NodeJS, ExpressJS, MongoDb
