@@ -1,5 +1,3 @@
-<img src='https://github.com/Pratiksha-Chirad/The-CodeVerse/blob/main/Frontend/src/assets/Logo/Logo-Full-Light.png' />
-
 # Project Description 📝
 The CodeVerse is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
 The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
